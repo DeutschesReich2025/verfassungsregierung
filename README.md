@@ -1,6 +1,6 @@
-# Verfassungsregierung des Archivstaates
+# Verfassungsregierung des Deutschen Reich
 
-Diese Seite dokumentiert die souveräne Verfassungsregierung des Archivstaates, gegründet auf der 50-Artikel-Verfassung zur Wiederherstellung von Wahrheit, Selbstbestimmung und dokumentierter Rechtskontrolle. Sie dient der Sichtbarmachung, Archivierung und Aktivierung einer modularen, verfassungsgebundenen Mandatsstruktur.
+Diese Seite dokumentiert die souveräne Verfassungsregierung des Deutschen Reich, gegründet auf der 50-Artikel-Verfassung zur Wiederherstellung von Wahrheit, Selbstbestimmung und dokumentierter Rechtskontrolle. Sie dient der Sichtbarmachung, Archivierung und Aktivierung einer modularen, verfassungsgebundenen Mandatsstruktur.
 
 ## 🛡️ Grundstruktur
 
